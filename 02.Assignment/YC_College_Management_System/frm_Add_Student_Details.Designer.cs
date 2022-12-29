@@ -240,7 +240,7 @@ namespace YC_College_Management_System
             this.Controls.Add(this.lbl_Head);
             this.Name = "frm_Add_Student_Details";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frm_Add_Student_Details";
+            this.Text = "Add Student Details";
             this.Load += new System.EventHandler(this.frm_Add_Student_Details_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
