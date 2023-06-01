@@ -1,0 +1,12 @@
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\bin\Debug\Product_Management_System.exe.config
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\bin\Debug\Product_Management_System.exe
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\bin\Debug\Product_Management_System.pdb
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\obj\Debug\Product_Management_System.csproj.AssemblyReference.cache
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\obj\Debug\Product_Management_System.frm_Login.resources
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\obj\Debug\Product_Management_System.Properties.Resources.resources
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\obj\Debug\Product_Management_System.csproj.GenerateResource.cache
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\obj\Debug\Product_Management_System.csproj.CoreCompileInputs.cache
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\obj\Debug\Product_Management_System.exe
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\obj\Debug\Product_Management_System.pdb
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\obj\Debug\Product_Management_System.frm_Add_Products.resources
+F:\C#\New_2023_Assignments\01_Assignment\Product_Management_System\obj\Debug\Product_Management_System.frm_View_List.resources
