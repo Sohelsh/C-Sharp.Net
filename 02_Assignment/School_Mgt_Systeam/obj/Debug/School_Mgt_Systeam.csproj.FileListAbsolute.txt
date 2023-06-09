@@ -1,0 +1,12 @@
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\bin\Debug\School_Mgt_Systeam.exe.config
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\bin\Debug\School_Mgt_Systeam.exe
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\bin\Debug\School_Mgt_Systeam.pdb
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\obj\Debug\School_Mgt_Systeam.csproj.AssemblyReference.cache
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\obj\Debug\School_Mgt_Systeam.frm_Login.resources
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\obj\Debug\School_Mgt_Systeam.Properties.Resources.resources
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\obj\Debug\School_Mgt_Systeam.csproj.GenerateResource.cache
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\obj\Debug\School_Mgt_Systeam.csproj.CoreCompileInputs.cache
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\obj\Debug\School_Mgt_Systeam.exe
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\obj\Debug\School_Mgt_Systeam.pdb
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\obj\Debug\School_Mgt_Systeam.frm_Add_Info.resources
+F:\C#\New_2023_Assignments\02_Assignment\School_Mgt_Systeam\obj\Debug\School_Mgt_Systeam.frm_Show_Stu_Info.resources
