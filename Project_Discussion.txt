@@ -1,0 +1,168 @@
+                     ----------------------------------------
+		     | Software Technology Company Project |                                		     ----------------------------------------	
+
+===========================================================================================
+
+
+		           *Employee Management Form*
+ 
+ Personal Information:
+	Full Name
+	Gender
+	Date of Birth
+	Phone Number
+	Email
+	Address
+
+Employment Information:
+	Employee ID
+	Job Title
+	Department
+	Date of Joining
+	Employment Status (Full-time, Part-time, Contract)
+
+Emergency Contact:(Optinal)
+	Emergency Contact Name
+	Relationship
+	Emergency Contact Phone Number
+
+Skills and Qualifications:
+	Educational Background (Degrees)
+	Skills
+	Languages Spokenr
+	Certifications(File Uplod)
+==========================================================================================
+
+			*Project Management Form*
+Project Information:
+	Project Name
+	Project Description
+	Project Start Date
+	Project End Date
+	Project Status(Progress, Completed, On Hold)
+
+Project Team:
+	Project Manager
+	Team Members
+
+Project Budget:
+	Budgeted Cost
+	Actual Cost
+=========================================================================================
+
+			*Sales and Service*
+Customer Information:
+	Customer Name
+	Customer Contact
+	Customer Email
+	Customer Address
+
+Project Information:
+	Project Name
+	Project Description
+	Project Quantity
+        Project Unit Price
+        Project	Total Price
+	
+Sales Details:
+	Sales Date
+	Sales Number(Auto)
+	Salesman Name
+
+Tax and Discounts:
+	Discount
+	Tax	
+	Subtotal	
+	Total Amount
+	
+Payment Information:
+	Payment Method(Cash, Credit Card, Bank Transfer)
+        Payment Due Date
+	Payment Status
+        Bank Cheque (Yes Or No)Enable
+	Cheque Number
+===========================================================================================
+			*Employee Salary Form*
+
+
+
+Employee Information:
+	Employee Name(Search)
+	Employee ID
+	Department
+	Job Title
+
+Salary Details:
+	Base Salary	
+	Deductions
+	Bonuses
+	Overtime Pay
+	Income Tax
+	Social Security Contributions
+	Total Salary
+	
+Pay Period:
+	Pay Start Date	
+	Pay End Date	
+	Number of Worked Days	
+
+Payment Information:
+	Payment Method: (Cash, Direct Deposit,Cheque)
+	Bank Name
+	Bank Account Number
+===========================================================================================
+
+			*Expense Details Form *
+
+Expense Details:
+	Expense Date
+	Expense Category(Travel, Meals, Office Supplies)
+	Expense Description
+	Amount
+
+Employee Information:
+	Employee Name
+	Employee ID	
+	Department
+	
+Payment Information:
+	Payment Method( Cash, Credit Card,Cheque)
+	Payment Date
+	Payment Details
+	Receipt(File Upload)
+	Payment Status(Paid,Not Paid)
+==========================================================================================
+			*Attendance form*
+
+Employee Information:
+	Employee Name
+	Employee ID
+	Department
+	Job Title
+
+Attendance Details:
+	Attendance Status(Present,Absent, Late, Early Departure)
+	Date
+	Time In
+	Time Out	
+	Total Hours(Calu)
+
+Overtime Details:
+	Overtime Date
+	Overtime Start Time
+	Overtime End Time
+	Overtime Reason
+==========================================================================================
+		*Leave Information form*
+
+Employee Information:
+	Employee Name
+	Employee ID
+	Department
+	Job Title
+
+Leave Information:
+	Leave Type(Annual Leave, Sick Leave, Personal Leave)
+	Leave Reason
+	Leave Start Date
+	Leave End Date
