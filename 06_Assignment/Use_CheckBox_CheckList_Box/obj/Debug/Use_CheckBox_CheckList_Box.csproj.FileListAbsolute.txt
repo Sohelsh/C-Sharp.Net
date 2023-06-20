@@ -1,0 +1,10 @@
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\bin\Debug\Use_CheckBox_CheckList_Box.exe.config
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\bin\Debug\Use_CheckBox_CheckList_Box.exe
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\bin\Debug\Use_CheckBox_CheckList_Box.pdb
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\obj\Debug\Use_CheckBox_CheckList_Box.csproj.AssemblyReference.cache
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\obj\Debug\Use_CheckBox_CheckList_Box.frm_Employee_Details.resources
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\obj\Debug\Use_CheckBox_CheckList_Box.Properties.Resources.resources
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\obj\Debug\Use_CheckBox_CheckList_Box.csproj.GenerateResource.cache
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\obj\Debug\Use_CheckBox_CheckList_Box.csproj.CoreCompileInputs.cache
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\obj\Debug\Use_CheckBox_CheckList_Box.exe
+F:\C#\New_2023_Assignments\06_Assignment\Use_CheckBox_CheckList_Box\obj\Debug\Use_CheckBox_CheckList_Box.pdb
