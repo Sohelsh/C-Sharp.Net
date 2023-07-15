@@ -1,0 +1,10 @@
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\bin\Debug\Assignment_05.exe.config
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\bin\Debug\Assignment_05.exe
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\bin\Debug\Assignment_05.pdb
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\obj\Debug\Assignment_05.csproj.AssemblyReference.cache
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\obj\Debug\Assignment_05.frm_Add.resources
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\obj\Debug\Assignment_05.Properties.Resources.resources
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\obj\Debug\Assignment_05.csproj.GenerateResource.cache
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\obj\Debug\Assignment_05.csproj.CoreCompileInputs.cache
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\obj\Debug\Assignment_05.exe
+F:\C#\New_2023_Assignments\05_Assignment\Assignment_05\obj\Debug\Assignment_05.pdb
