@@ -133,7 +133,7 @@ namespace Software_Technology_Company_Mgt_System
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
             this.pictureBox5.Location = new System.Drawing.Point(41, 694);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(81, 74);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -156,7 +156,7 @@ namespace Software_Technology_Company_Mgt_System
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(41, 410);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(81, 74);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -179,7 +179,7 @@ namespace Software_Technology_Company_Mgt_System
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
             this.pictureBox6.Location = new System.Drawing.Point(41, 522);
-            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(81, 74);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -202,7 +202,7 @@ namespace Software_Technology_Company_Mgt_System
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
             this.pictureBox3.Location = new System.Drawing.Point(41, 299);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(81, 74);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -225,7 +225,7 @@ namespace Software_Technology_Company_Mgt_System
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.Location = new System.Drawing.Point(41, 193);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(81, 74);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -261,7 +261,7 @@ namespace Software_Technology_Company_Mgt_System
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(67, 4);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(115, 123);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -775,6 +775,8 @@ namespace Software_Technology_Company_Mgt_System
             // btn_Save
             // 
             this.btn_Save.BackColor = System.Drawing.Color.SlateBlue;
+            this.btn_Save.FlatAppearance.BorderSize = 0;
+            this.btn_Save.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Save.Font = new System.Drawing.Font("Georgia", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Save.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btn_Save.Location = new System.Drawing.Point(1025, 708);
@@ -785,6 +787,7 @@ namespace Software_Technology_Company_Mgt_System
             this.btn_Save.Text = "Save";
             this.btn_Save.UseVisualStyleBackColor = false;
             this.btn_Save.Click += new System.EventHandler(this.btn_Save_Click);
+            this.btn_Save.MouseHover += new System.EventHandler(this.btn_Save_MouseHover);
             // 
             // btn_Search
             // 
@@ -804,10 +807,11 @@ namespace Software_Technology_Company_Mgt_System
             // 
             this.pnl_Head.BackColor = System.Drawing.Color.SlateBlue;
             this.pnl_Head.Controls.Add(this.lbl_Head);
-            this.pnl_Head.Location = new System.Drawing.Point(651, -4);
+            this.pnl_Head.Dock = System.Windows.Forms.DockStyle.Top;
+            this.pnl_Head.Location = new System.Drawing.Point(259, 0);
             this.pnl_Head.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pnl_Head.Name = "pnl_Head";
-            this.pnl_Head.Size = new System.Drawing.Size(817, 55);
+            this.pnl_Head.Size = new System.Drawing.Size(1617, 49);
             this.pnl_Head.TabIndex = 16;
             // 
             // lbl_Head
@@ -815,7 +819,7 @@ namespace Software_Technology_Company_Mgt_System
             this.lbl_Head.AutoSize = true;
             this.lbl_Head.Font = new System.Drawing.Font("Georgia", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_Head.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lbl_Head.Location = new System.Drawing.Point(241, 15);
+            this.lbl_Head.Location = new System.Drawing.Point(264, 4);
             this.lbl_Head.Name = "lbl_Head";
             this.lbl_Head.Size = new System.Drawing.Size(327, 38);
             this.lbl_Head.TabIndex = 0;
