@@ -406,6 +406,7 @@ namespace Software_Technology_Company_Mgt_System
             // 
             // tb_Enter_Name
             // 
+            this.tb_Enter_Name.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.tb_Enter_Name.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tb_Enter_Name.Font = new System.Drawing.Font("Georgia", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tb_Enter_Name.Location = new System.Drawing.Point(24, 73);
