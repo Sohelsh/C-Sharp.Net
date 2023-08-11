@@ -159,8 +159,7 @@ namespace Software_Technology_Company_Mgt_System
             cb_Marathi.Checked = false;
         }
         private void btn_Save_Click(object sender, EventArgs e)
-        {                                                                                      
-            
+        {
 
             if (tb_Enter_Name.Text != "" && tb_Address.Text != "" && tb_Con_Number.TextLength == 10 && tb_Educational_Background.Text != "" && tb_Job_Title.Text != "" && tb_Email.Text != "" && tb_Educational_Background.Text != "" && cmb_Department.Text != "" && cmb_Emp_Status.Text != "" && cmb_Skills.Text != "" && Gender != "" && (ChaekBox1 != "" || ChaekBox2 != "" || ChaekBox3 != ""))
             {
