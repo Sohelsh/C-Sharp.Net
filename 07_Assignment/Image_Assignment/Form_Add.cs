@@ -98,5 +98,10 @@ namespace Image_Assignment
         {
             
         }
+
+        private void button_Reset_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
