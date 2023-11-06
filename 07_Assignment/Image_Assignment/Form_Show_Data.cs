@@ -100,5 +100,10 @@ namespace Image_Assignment
                 pictureBox_Your_Image.Image = new Bitmap(opnfd.FileName);
             }
         }
+
+        private void dataGridView_ImageData_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
