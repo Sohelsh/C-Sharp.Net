@@ -50,7 +50,7 @@ namespace Image_Assignment
             this.label_Head.Font = new System.Drawing.Font("Lucida Fax", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Head.Location = new System.Drawing.Point(602, 6);
             this.label_Head.Name = "label_Head";
-            this.label_Head.Size = new System.Drawing.Size(237, 45);
+            this.label_Head.Size = new System.Drawing.Size(189, 37);
             this.label_Head.TabIndex = 0;
             this.label_Head.Text = "Add Image";
             // 
@@ -60,7 +60,7 @@ namespace Image_Assignment
             this.label_Id.Font = new System.Drawing.Font("Lucida Fax", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Id.Location = new System.Drawing.Point(54, 97);
             this.label_Id.Name = "label_Id";
-            this.label_Id.Size = new System.Drawing.Size(142, 32);
+            this.label_Id.Size = new System.Drawing.Size(110, 25);
             this.label_Id.TabIndex = 1;
             this.label_Id.Text = "Image ID";
             // 
@@ -70,7 +70,7 @@ namespace Image_Assignment
             this.label_Desc.Font = new System.Drawing.Font("Lucida Fax", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Desc.Location = new System.Drawing.Point(54, 167);
             this.label_Desc.Name = "label_Desc";
-            this.label_Desc.Size = new System.Drawing.Size(284, 32);
+            this.label_Desc.Size = new System.Drawing.Size(221, 25);
             this.label_Desc.TabIndex = 1;
             this.label_Desc.Text = "Image Description ";
             // 
@@ -79,7 +79,7 @@ namespace Image_Assignment
             this.textBox_ID.Font = new System.Drawing.Font("Lucida Fax", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_ID.Location = new System.Drawing.Point(328, 90);
             this.textBox_ID.Name = "textBox_ID";
-            this.textBox_ID.Size = new System.Drawing.Size(245, 39);
+            this.textBox_ID.Size = new System.Drawing.Size(245, 33);
             this.textBox_ID.TabIndex = 1;
             // 
             // textBox_Desc
@@ -97,7 +97,7 @@ namespace Image_Assignment
             this.label_Add_Image.Font = new System.Drawing.Font("Lucida Fax", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_Add_Image.Location = new System.Drawing.Point(998, 68);
             this.label_Add_Image.Name = "label_Add_Image";
-            this.label_Add_Image.Size = new System.Drawing.Size(211, 32);
+            this.label_Add_Image.Size = new System.Drawing.Size(164, 25);
             this.label_Add_Image.TabIndex = 1;
             this.label_Add_Image.Text = "Upload Image";
             // 
@@ -135,6 +135,7 @@ namespace Image_Assignment
             this.button_Reset.TabIndex = 4;
             this.button_Reset.Text = "Reset";
             this.button_Reset.UseVisualStyleBackColor = false;
+            this.button_Reset.Click += new System.EventHandler(this.button_Reset_Click);
             // 
             // button_Save
             // 
@@ -164,7 +165,7 @@ namespace Image_Assignment
             // 
             // Form_Add
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLight;
             this.ClientSize = new System.Drawing.Size(1391, 786);
