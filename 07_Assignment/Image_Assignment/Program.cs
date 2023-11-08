@@ -16,7 +16,7 @@ namespace Image_Assignment
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_Add());
+            Application.Run(new Form_Show_Data());
         }
     }
 }
