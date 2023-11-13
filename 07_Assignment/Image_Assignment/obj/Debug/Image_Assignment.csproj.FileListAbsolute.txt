@@ -9,3 +9,5 @@ F:\C#\New_2023_Assignments\07_Assignment\Image_Assignment\obj\Debug\Image_Assign
 F:\C#\New_2023_Assignments\07_Assignment\Image_Assignment\obj\Debug\Image_Assignment.exe
 F:\C#\New_2023_Assignments\07_Assignment\Image_Assignment\obj\Debug\Image_Assignment.pdb
 F:\C#\New_2023_Assignments\07_Assignment\Image_Assignment\obj\Debug\Image_Assignment.Form_Show_Data.resources
+F:\C#\New_2023_Assignments\07_Assignment\Image_Assignment\obj\Debug\Image_Assignment.frm_Add_Course.resources
+F:\C#\New_2023_Assignments\07_Assignment\Image_Assignment\obj\Debug\Image_Assignment.frm_Add_Fees.resources
