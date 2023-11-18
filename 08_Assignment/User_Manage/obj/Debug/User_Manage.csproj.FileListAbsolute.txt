@@ -1,0 +1,10 @@
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\bin\Debug\User_Manage.exe.config
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\bin\Debug\User_Manage.exe
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\bin\Debug\User_Manage.pdb
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\obj\Debug\User_Manage.csproj.AssemblyReference.cache
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\obj\Debug\User_Manage.frm_Login.resources
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\obj\Debug\User_Manage.Properties.Resources.resources
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\obj\Debug\User_Manage.csproj.GenerateResource.cache
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\obj\Debug\User_Manage.csproj.CoreCompileInputs.cache
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\obj\Debug\User_Manage.exe
+F:\C#\New_2023_Assignments\08_Assignment\User_Manage\obj\Debug\User_Manage.pdb
